@@ -1,0 +1,1 @@
+In a Next.js application, I encountered an issue where changes to my CSS files were not reflected in the browser after running `next build` and `next start`. I had modified several CSS files, but the UI remained unchanged. Clearing the browser cache and restarting the development server didn't resolve the problem.
